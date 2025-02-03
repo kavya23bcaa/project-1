@@ -3,8 +3,8 @@ class Main {
   public static void main(String[] args)
 {
     
-    int f = 10;
-    int s = 20;
+    int f= 10;
+    int s= 20;
 
     // add two numbers
     int sum = f +s;
