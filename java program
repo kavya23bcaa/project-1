@@ -7,7 +7,7 @@ class Main {
     int s = 20;
 
     // add two numbers
-    int sum = f + s;
+    int sum = f +s;
     System.out.println(f + " + " + s+ " = "  + sum);
   }
 }
